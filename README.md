@@ -1,3 +1,8 @@
+# Pokemon DB
+## Pokemon DB on React Hooks (https://pokeapi.co)
+
+##![Imgur](https://i.imgur.com/spIzfHE.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
